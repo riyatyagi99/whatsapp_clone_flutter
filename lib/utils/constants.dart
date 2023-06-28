@@ -3,6 +3,8 @@ import 'package:google_fonts/google_fonts.dart';
 
 class ColorConstants{
   static const color6104FF = Color(0xff6104FF);
+  static const color75e54 = Color(0xff075e54);
+  static const color128C7E=Color(0xFF128C7E);
   static const color40CBFC= Color(0xff40CBFC);
   static const colorE3E5E5 = Color(0xffE3E5E5);
   static const color2867B2 = Color(0xffE2867B2);
@@ -21,28 +23,6 @@ class ColorConstants{
   static const colorF9F9F9= Color(0xffF9F9F9);
   static const color2A2634= Color(0xff2A2634);
   static const color6C7072= Color(0xff6C7072);
-  static const colorDADADA= Color(0xffDADADA);
-  static const colorF2EAFF= Color(0xffF2EAFF);
-  static const color585858= Color(0xff585858F);
-  static const color303030= Color(0xff303030);
-  static const color090A0A= Color(0xff090A0A);
-  static const colorF6F6F6= Color(0xffF6F6F6);
-  static const colorF8F8F8= Color(0xffF8F8F8);
-  static const colorBEEEF9= Color(0xffBEEEF9);
-  static const color97F5E5= Color(0xff97F5E5);
-  static const colorE3F6DD= Color(0xffE3F6DD);
-  static const colorF3EBC1= Color(0xffF3EBC1);
-  static const colorF0D0F8= Color(0xffF0D0F8);
-  static const colorCDE4FA= Color(0xffCDE4FA);
-  static const colorF8FFAD= Color(0xffF8FFAD);
-  static const colorFCCDDE= Color(0xffFCCDDE);
-  static const colorC2FFAC= Color(0xffC2FFAC);
-  static const colorB9FFFF= Color(0xffB9FFFF);
-  static const color94FFF2= Color(0xff94FFF2);
-  static const colorFFD0B6= Color(0xffFFD0B6);
-  static const color616161= Color(0xff616161);
-  static const colorFEE2B9 = Color(0xffFEE2B9);
-  static const colorB0FCB8 = Color(0xffB0FCB8);
 
 }
 
