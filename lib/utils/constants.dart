@@ -43,20 +43,3 @@ class Fonts {
 }
 
 
-class APIKEY {
-
-  //base url for uploading imagessss
-  static const String baseURL ='https://test.curd.network/api/' ;  // devUrl---'http://dev.curd.network:3000/api/';
-
-  static const String username = 'username';
-  static const String password = 'password';
-}
-
-
-class AppConstants {
-
-  static const int lengthLimit = 50;
-  static String linkedInClientId = "77e16sngc5trod";
-  static String linkedInClientSecret = "B53ZYgoNbIRbcv8m";
-  static String linkedInRedirectUrl = "https://www.youtube.com/callback";
-}
