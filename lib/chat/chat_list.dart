@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
 import '../utils/constants.dart';
 import '../common_widgets/fade_in_image.dart';
 import 'chat_opened.dart';
